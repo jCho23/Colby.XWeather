@@ -6,9 +6,11 @@ I have included test code samples and a fully-working test script.
 
 #Authors
 
-**June Cho**
+**June Cho** <br>
 *Microsoft Technical Solutions Professional*
-
+<br>
+**Colby Williams** <br>
+*Microsoft Technical Solutions Professional*
 
 #License
 
