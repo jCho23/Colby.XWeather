@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colby.XWeather", "Colby.XWeather\Colby.XWeather.csproj", "{A5DAA6EB-1504-4EA5-B534-DB961B2A0C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5DAA6EB-1504-4EA5-B534-DB961B2A0C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DAA6EB-1504-4EA5-B534-DB961B2A0C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DAA6EB-1504-4EA5-B534-DB961B2A0C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DAA6EB-1504-4EA5-B534-DB961B2A0C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
