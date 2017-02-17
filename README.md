@@ -1,6 +1,6 @@
 # Colby.XWeather
 
-This demo properly illustrates how to get started with Visual Studio Mobile Center Test.
+This demo instructs how to get started with Visual Studio Mobile Center Test.
 <br>
 I have included test code samples and a fully-working test script.
 
