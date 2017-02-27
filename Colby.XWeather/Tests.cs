@@ -49,7 +49,7 @@ namespace Colby.XWeather
 		{
 			app.Tap("floatingButton");
 			app.Screenshot("Let's start by Tapping on the 'Floating Action Button'");
-			app.Tap("Miamii");
+			app.Tap("Miami");
 			Thread.Sleep(4000);
 			app.Screenshot("Then we Tapped on 'Miami'");
 			app.SwipeRightToLeft();
