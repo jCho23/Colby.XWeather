@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Colby.XWeather/Tests.cs">
     <Files>
       <File FileName="Colby.XWeather/AppInitializer.cs" Line="30" Column="6" />
-      <File FileName="Colby.XWeather/Tests.cs" Line="47" Column="9" />
+      <File FileName="Colby.XWeather/Tests.cs" Line="43" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Colby.XWeather PreferredExecutionTarget="MonoDevelop.Default" />

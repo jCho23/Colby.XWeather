@@ -34,13 +34,10 @@ namespace Colby.XWeather
 			app.Tap("floatingButton");
 			app.Screenshot("Let's start by Tapping on the 'Floating Action Button'");
 			app.Tap("Las Vegas");
-			Thread.Sleep(4000);
 			app.Screenshot("Then we Tapped on 'Las Vegas'");
 			app.SwipeRightToLeft();
-			Thread.Sleep(4000);
 			app.Screenshot("We Swiped Left to get weather summary");
 			app.ScrollDown();
-			Thread.Sleep(8000);
 			app.Screenshot("Lastly, we scrolled down for more information");
 		}
 
@@ -49,14 +46,11 @@ namespace Colby.XWeather
 		{
 			app.Tap("floatingButton");
 			app.Screenshot("Let's start by Tapping on the 'Floating Action Button'");
-			app.Tap("Miami");
-			Thread.Sleep(4000);
-			app.Screenshot("Then we Tapped on 'Miami'");
+			app.Tap("Miamii");
+			app.Screenshot("Then we Tapped on 'Miamii'");
 			app.SwipeRightToLeft();
-			Thread.Sleep(4000);
 			app.Screenshot("We Swiped Left to get weather summary");
 			app.ScrollDown();
-			Thread.Sleep(4000);
 			app.Screenshot("Lastly, we scrolled down for more information");
 		}
 
