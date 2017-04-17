@@ -5,7 +5,7 @@ This demo instructs how to get started with Visual Studio Mobile Center Test.
 I have included test code samples and a fully-working test script.
 
 
-#Authors
+# Authors
 
 **June Cho** <br>
 *Microsoft Technical Solutions Professional*
@@ -14,7 +14,7 @@ I have included test code samples and a fully-working test script.
 **Colby Williams** <br>
 *Microsoft Technical Solutions Professional*
 
-#License
+# License
 
 MIT License
 
