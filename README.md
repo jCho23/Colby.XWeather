@@ -1,5 +1,4 @@
 # Colby.XWeather
-
 This demo instructs how to get started with Visual Studio Mobile Center Test.
 <br>
 I have included a Xamarin.UITest example test.
