@@ -31,6 +31,7 @@ namespace Colby.XWeather
 		[Test]
 		public void CheckLasVegasWeather()
 		{
+            app.Repl();
 			app.Tap("floatingButton");
 			app.Screenshot("Let's start by Tapping on the 'Floating Action Button'");
 			app.Tap("Las Vegas");
